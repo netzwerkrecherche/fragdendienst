@@ -73,8 +73,11 @@ function generateLetter(receiver, cnt) {
 
 	rcvr +=
 		+ receiver.zipcode + " " + receiver.city + crlf
-		+ receiver.country + crlf
-		+ crlf + "Fax: " + receiver.fax;
+		+ receiver.country + crlf;
+
+	if (receiver.fax)
+		rcvr += crlf + "Fax: " + receiver.fax;
+
 	var lines_rcvr = doc.splitTextToSize(rcvr, 80)
 	doc.text(25, 44.7, lines_rcvr);
 
