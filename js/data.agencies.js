@@ -27,7 +27,7 @@ var agencies = {
 		, mail: "MAD-Amt@t-online.de"
 		, www: "http://www.kommando.streitkraeftebasis.de/portal/a/kdoskb/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP3I5EyrpHK94uyk-OyUfL3y1MySlOKS4hK93MQU_YJsR0UABos3fg!!/"
 		, text: 2
-		, desc: "MAD"
+		, desc: "Militärischer Abschirmdienst (MAD)"
 	}
 	, "BND": {
 		  title: "Bundesnachrichtendienst BND"
@@ -41,7 +41,7 @@ var agencies = {
 		, www: "Htt bnd.dep://www.bnd.bund.de/DE/_Home/home_node.html /"
 		, law: "§ 7 BNDG, § 15 Bundesverfassungsschutzgesetz sowie § 19, Abs. 1 Bundesdatenschutzgesetz (BDSG)"
 		, text: 2
-		, desc: "BND"
+		, desc: "Bundesnachrichtendienst (BND)"
 	}
 	, "BKA" : {
 		title: "Bundeskriminalamt"
@@ -51,7 +51,7 @@ var agencies = {
 		, country: "Deutschland"
 		, law: "§12, Abs. 5 Bundeskriminalamtgesetz (BKAG), §10, Abs. 2 ATDG sowie §19, Abs. 1 Bundesdatenschutzgesetz (BDSG)"
 		, text: 1
-		, desc: "BKA"
+		, desc: "Bundeskriminalamt (BKA)"
 	}
 	, "Bpol": {
 		  title: "Bundespolizei"
@@ -65,7 +65,7 @@ var agencies = {
 		, www: "http://www.bundespolizei.de"
 		, law: "§19, Abs. 1 Bundesdatenschutzgesetz (BDSG)" 
 		, text: 1
-		, desc: "BPol"
+		, desc: "Bundespolizei (BPol)"
 	}
 	, "LVS Berlin": {
 		  title: "Senatsverwaltung für Inneres"
