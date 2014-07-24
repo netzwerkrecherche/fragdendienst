@@ -182,7 +182,7 @@ var agencies = {
 		, mail: "kontakt.verfassungsschutz@mik1.nrw.de"
 		, www: "http://www.mik.nrw.de/verfassungsschutz.html"
 		, text: 0
-		, desc: "Landesamt f&uuml;r Verfassungsschutz NRW"
+		, desc: "Landesamt f&uuml;r Verfassungsschutz Nordrhein-Westfalen"
 	}
 	, "LVS RLP": {
 		  title: "Ministerium des Inneren und für Sport des Landes Rheinland-Pfalz"
@@ -282,7 +282,7 @@ var agencies = {
 		, fax: "0361 4406-251"
 		, law: "§ 11 Thüringer  Verfassungsschutzgesetz sowie § 13Thüringer Datenschutzgesetz"
 		, text: 2
-		, desc: "Landesamt f&uuml;r Verfassungsschutz Th&uuml;hringen"
+		, desc: "Landesamt f&uuml;r Verfassungsschutz Th&uuml;ringen"
 	}
 	, "LVS Baden-Wuerttemberg": {
 		  title: "Landesamt für Verfassungsschutz"
