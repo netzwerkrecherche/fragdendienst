@@ -68,13 +68,13 @@ var agencies = {
 		, desc: "Bundespolizei (BPol)"
 	}
 	, "LVS Berlin": {
-		  title: "Senatsverwaltung für Inneres"
+		  title: "Senatsverwaltung für Inneres und Sport"
 		, subtitle: "Abteilung II – Verfassungsschutz"
-		, street: "Postfach 62 05 60"
-		, zipcode: "10795"
+		, street: "Klosterstr. 47"
+		, zipcode: "10179"
 		, city: "Berlin"
 		, country: "Deutschland"
-		, tel: "030 90 129-111"
+		, tel: "030 90 129-0"
 		, fax:  "030 90 129-844"
 		, www: "http://www.berlin.de/sen/inneres/verfassungsschutz/"
 		, law: "§ 31, Abs. 1 des Gesetzes über den Verfassungsschutz in Berlin und § 16 Berliner Datenschutzgesetz"
